@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&height=300&section=header&text=nohsihyun's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=300&section=header&text=nohsihyun's%20GitHub&fontSize=90)
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Project&fontAlign=30&fontSize=30&desc=U-Healthcare_sevice_program%20&descAlign=60&descAlignY=50&theme=radical)
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Project&fontAlign=30&fontSize=30&desc=Deep_learning_Lung%20&descAlign=60&descAlignY=50&theme=radical)
